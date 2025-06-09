@@ -5,6 +5,7 @@ out/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/**/dry-run/
+/broadcast/**/*.json
 
 
 # Docs
