@@ -4,7 +4,7 @@
 
 [submodule "lib/foundry-devops"]
 	path = lib/foundry-devops
-	url = https://github.com/PatrickAlphaC/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
 
 [submodule "lib/forge-std"]
   path = lib/forge-std
