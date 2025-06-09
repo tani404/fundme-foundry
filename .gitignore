@@ -5,6 +5,7 @@ out/
 # Ignores development broadcast logs
 !/broadcast
 /broadcast/**/dry-run/
+braodcast/
 
 # Docs
 docs/
@@ -21,3 +22,6 @@ reports/*.*
 
 # zkSync
 zkout/ 
+
+lib/
+cache/
